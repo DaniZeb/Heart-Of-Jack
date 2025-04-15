@@ -1,4 +1,4 @@
-HEART OF JACK
+#HEART OF JACK
 
 * Créditos:
 * Título: Heart of Jack
